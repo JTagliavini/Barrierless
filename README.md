@@ -1,16 +1,26 @@
-# barrierless
+#Title (your app name)
+Barrierless
 
-A new Flutter project.
+#Installation Guidelines (if applicable)
+https://drive.google.com/drive/folders/1EhI6UvjdzPDDEUVb0-rz194eRc3qenqg?usp=sharing
 
-## Getting Started
+#Graphics
 
-This project is a starting point for a Flutter application.
+#Short description
 
-A few resources to get you started if this is your first Flutter project:
+This application helps importers to connect with exporters.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+#Team
+Federico Muñiz
+Jonathan Tagliavini
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#Promotional Video
+
+#Description
+
+This application helps importers to connect with exporters.
+
+#Screenshots
+
+#License
+Proprietary
