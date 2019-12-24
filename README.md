@@ -4,7 +4,7 @@ Barrierless
 
 #Graphics
 
-[Graphics](https://drive.google.com/drive/folders/1tSJVaAht9vlDQLrhgmK8Fr5pItCzA_Jl?usp=sharing)
+![bk_main](https://raw.githubusercontent.com/JTagliavini/Barrierless/master/screenshots/Barrierless%20logo%20png.png)
 
 #Short description
 
@@ -23,7 +23,14 @@ This application helps importers to connect with exporters.
 
 #Screenshots
 
-[Screenshots](https://drive.google.com/drive/folders/1XfHc7RBjg0_9vMwXfZt2yo1-GWLhIA3O?usp=sharing)
+<img   hspace="20" src="https://user-images.githubusercontent.com/39838697/69763315-18004600-116d-11ea-9413-1a75990a8825.jpg" width="400" height="600"/><img src="https://raw.githubusercontent.com/JTagliavini/Barrierless/master/screenshots/Screenshot_2019-11-30-19-41-57.png" width="400" height="600"/>
+<img   hspace="20" src="https://user-images.githubusercontent.com/39838697/69763315-18004600-116d-11ea-9413-1a75990a8825.jpg" width="400" height="600"/><img src="https://raw.githubusercontent.com/JTagliavini/Barrierless/master/screenshots/Screenshot_2019-11-30-19-42-18.png" width="400" height="600"/>
+<img   hspace="20" src="https://user-images.githubusercontent.com/39838697/69763315-18004600-116d-11ea-9413-1a75990a8825.jpg" width="400" height="600"/><img src="https://raw.githubusercontent.com/JTagliavini/Barrierless/master/screenshots/Screenshot_2019-11-30-19-42-30.png" width="400" height="600"/>
+<img   hspace="20" src="https://user-images.githubusercontent.com/39838697/69763315-18004600-116d-11ea-9413-1a75990a8825.jpg" width="400" height="600"/><img src="https://raw.githubusercontent.com/JTagliavini/Barrierless/master/screenshots/Screenshot_2019-11-30-19-42-38.png" width="400" height="600"/>
+<img   hspace="20" src="https://user-images.githubusercontent.com/39838697/69763315-18004600-116d-11ea-9413-1a75990a8825.jpg" width="400" height="600"/><img src="https://raw.githubusercontent.com/JTagliavini/Barrierless/master/screenshots/Screenshot_2019-11-30-19-43-01.png" width="400" height="600"/>
+<img   hspace="20" src="https://user-images.githubusercontent.com/39838697/69763315-18004600-116d-11ea-9413-1a75990a8825.jpg" width="400" height="600"/><img src="https://raw.githubusercontent.com/JTagliavini/Barrierless/master/screenshots/Screenshot_2019-11-30-19-43-28.png" width="400" height="600"/>
+<img   hspace="20" src="https://user-images.githubusercontent.com/39838697/69763315-18004600-116d-11ea-9413-1a75990a8825.jpg" width="400" height="600"/><img src="https://raw.githubusercontent.com/JTagliavini/Barrierless/master/screenshots/Screenshot_2019-11-30-19-43-37.png" width="400" height="600"/>
+
 
 #License
 
