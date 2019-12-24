@@ -23,13 +23,13 @@ This application helps importers to connect with exporters.
 
 #Screenshots
 
-<img src="https://raw.githubusercontent.com/JTagliavini/Barrierless/master/screenshots/Screenshot_2019-11-30-19-41-57.png" width="400" height="600"/>
-<img src="https://raw.githubusercontent.com/JTagliavini/Barrierless/master/screenshots/Screenshot_2019-11-30-19-42-18.png" width="400" height="600"/>
-<img src="https://raw.githubusercontent.com/JTagliavini/Barrierless/master/screenshots/Screenshot_2019-11-30-19-42-30.png" width="400" height="600"/>
-<img src="https://raw.githubusercontent.com/JTagliavini/Barrierless/master/screenshots/Screenshot_2019-11-30-19-42-38.png" width="400" height="600"/>
-<img src="https://raw.githubusercontent.com/JTagliavini/Barrierless/master/screenshots/Screenshot_2019-11-30-19-43-01.png" width="400" height="600"/>
-<img src="https://raw.githubusercontent.com/JTagliavini/Barrierless/master/screenshots/Screenshot_2019-11-30-19-43-28.png" width="400" height="600"/>
-<img src="https://raw.githubusercontent.com/JTagliavini/Barrierless/master/screenshots/Screenshot_2019-11-30-19-43-37.png" width="400" height="600"/>
+<img hspace="20" src="https://raw.githubusercontent.com/JTagliavini/Barrierless/master/screenshots/Screenshot_2019-11-30-19-41-57.png" width="400" height="600"/><img src="https://raw.githubusercontent.com/JTagliavini/Barrierless/master/screenshots/Screenshot_2019-11-30-19-42-18.png" width="400" height="600"/>
+
+<img hspace="20" src="https://raw.githubusercontent.com/JTagliavini/Barrierless/master/screenshots/Screenshot_2019-11-30-19-42-30.png" width="400" height="600"/> <img src="https://raw.githubusercontent.com/JTagliavini/Barrierless/master/screenshots/Screenshot_2019-11-30-19-42-38.png" width="400" height="600"/>
+
+<img hspace="20" src="https://raw.githubusercontent.com/JTagliavini/Barrierless/master/screenshots/Screenshot_2019-11-30-19-43-01.png" width="400" height="600"/> <img src="https://raw.githubusercontent.com/JTagliavini/Barrierless/master/screenshots/Screenshot_2019-11-30-19-43-28.png" width="400" height="600"/>
+
+<img hspace="20" src="https://raw.githubusercontent.com/JTagliavini/Barrierless/master/screenshots/Screenshot_2019-11-30-19-43-37.png" width="400" height="600"/>
 
 
 #License
